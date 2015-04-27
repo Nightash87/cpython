@@ -5,6 +5,12 @@
 *.pyd
 *.pyo
 *.rej
+*.sdf
+*.opensdf
+*.suo
+*.orig
+*.exe
+*.vcxproj.user
 *~
 Doc/build/
 Doc/tools/docutils/
